@@ -4,7 +4,6 @@
 <img align="centre" alt="GIF" src="flowchart-2.jpg" />
 
 
-<img align="centre" alt="GIF" src="https://cdn.wallpapersafari.com/20/75/DvTcWJ.jpg" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjitkaj&label=Profile%20views&color=0e75b6&style=flat" alt="ranjitkaj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjitkaj" alt="ranjitkaj" /></a> </p>
