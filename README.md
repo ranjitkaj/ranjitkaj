@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ranjit Kumar</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<div style="height:60px">
+
 <img align="centre" alt="GIF" src="flowchart-2.jpg" />
-</div>
+
 
 <img align="centre" alt="GIF" src="https://cdn.wallpapersafari.com/20/75/DvTcWJ.jpg" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjitkaj&label=Profile%20views&color=0e75b6&style=flat" alt="ranjitkaj" /> </p>
