@@ -3,6 +3,7 @@
 
 <img align="centre" alt="GIF" src="flowchart-2.jpg" />
 
+//add a image
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjitkaj&label=Profile%20views&color=0e75b6&style=flat" alt="ranjitkaj" /> </p>
 
