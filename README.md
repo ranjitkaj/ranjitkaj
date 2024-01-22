@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ranjit Kumar</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<img align="centre" alt="GIF" src="flowchart-2.jpg" />
-
-//add a image
-
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=ranjitkaj&label=Profile%20views&color=0e75b6&style=flat](https://cdn.dribbble.com/users/1138853/screenshots/4834993/06_08_gif.gif)" alt="ranjitkaj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjitkaj&label=Profile%20views&color=0e75b6&style=flat" alt="ranjitkaj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjitkaj" alt="ranjitkaj" /></a> </p>
 
